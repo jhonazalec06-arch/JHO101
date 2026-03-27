@@ -1,4 +1,4 @@
-const correctPassword = "manalo";
+const correctPassword = "shien";
 const WEBHOOK_URL = "https://discord.com/api/webhooks/1481806898389844179/cb5Q11Rd1rnPEwvLQqtcat6-2oM3IJ8EKFWDj4d3hmS6Mb4fm6jVQZypRUdXcrNk3vQX";
 
 let noClicks = 0;
